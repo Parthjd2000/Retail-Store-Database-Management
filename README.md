@@ -1,6 +1,3 @@
-# Retail-Store-Database-Management
-STEP 1: Topic/Domain Selection
- Topic- Retail Store Database Management
  Introduction
  In the ever-evolving landscape of retail, modern retailers seek to thrive among their competitors. Hence,
  efficient management of large-scale data has become paramount for success in the retail domain. By
@@ -88,25 +85,4 @@ Product Price Consistency:
  invoice.
  ■ Theinvoice date should not be in the future.
  Invoice Total Calculation:
- ■ Theinvoice total should be the sum of all product line prices in the invoice.
- ER/EER DIAGRAM:
-![image](https://github.com/Parthjd2000/Retail-Store-Database-Management/assets/69391267/06a5dacc-20c4-4e82-88bd-804934f1adcb)
-Relational Model :
-![image](https://github.com/Parthjd2000/Retail-Store-Database-Management/assets/69391267/432c31ab-e9ee-454e-ad8a-2ffc3eea4590)
- STEP 3: Database Implementation
- SQLCommandstoCreate Tables for Database:
- Below are the SQL commands that were used to create tables for the database
- USEEDM_Project;
- CREATETABLECustomer (
- Customer_ID INT AUTO_INCREMENT PRIMARY KEY,
- Customer_Name VARCHAR(255) NOT NULL,
- Customer_Street VARCHAR(255) NOT NULL,
- Customer_City VARCHAR(255) NOT NULL,
- Customer_State VARCHAR(255) NOT NULL,
- Customer_ZIP VARCHAR(10) NOT NULL,
- Customer_Rewards INT DEFAULT 0
-);
-Deploying The Database on AWS Cloud
- Database Name: EDM_Project
- The MySQLDatabase was deployed on AWS Cloud.
- EndPoint : database-1.cdbv9bf7nxth.us-east-2.rds.amazonaws.com
+ ■ Theinvoice total should be the sum of all product line prices in the invoice
