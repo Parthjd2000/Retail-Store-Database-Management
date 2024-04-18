@@ -1,5 +1,5 @@
- Introduction
- In the ever-evolving landscape of retail, modern retailers seek to thrive among their competitors. Hence,
+#Introduction
+ /nIn the ever-evolving landscape of retail, modern retailers seek to thrive among their competitors. Hence,
  efficient management of large-scale data has become paramount for success in the retail domain. By
  efficiently managing and leveraging data, retail businesses can position themselves for success, adapt to
  market dynamics, and provide exceptional experiences to their customers. The Retail Stores Database
